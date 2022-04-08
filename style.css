@@ -1,0 +1,20 @@
+h1{
+    background-color: brown;
+}
+
+b{
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+}
+
+#caja1{
+    width: 200px;
+    background-color: aqua;
+}
+
+p{
+    width: 200px;
+    background-color: blueviolet;
+    font-family: 'Grape Nuts';
+}

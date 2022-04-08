@@ -1,0 +1,29 @@
+/* Selector universal (selecciona todo) */
+/* 
+* {
+    color:red;
+} 
+*/
+
+/* selector {
+    propieda:valor;
+} */
+
+h1 { /* Selector de etiqueta */
+    color:purple;
+}
+
+.rojo { /* Selector de clase */
+    color: red;
+}
+
+#caja2 { /* Selector de id */
+    color: blue;
+}
+
+[width="100"] { /*selector por atributo (no se suele usar)*/
+    color: green;
+}
+
+
+
